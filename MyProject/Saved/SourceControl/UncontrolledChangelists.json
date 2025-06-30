@@ -13,7 +13,9 @@
 				"D:/Fork/BOTW_Shader/MyProject/Content/ThirdPerson/Blueprints/Disintergrate_Shader_Inst.uasset",
 				"D:/Fork/BOTW_Shader/MyProject/Content/ThirdPerson/Blueprints/M_Colour.uasset",
 				"D:/Fork/BOTW_Shader/MyProject/Content/ThirdPerson/Blueprints/vornoi.uasset",
-				"D:/Fork/BOTW_Shader/MyProject/Content/ThirdPerson/Blueprints/vornoi02.uasset"
+				"D:/Fork/BOTW_Shader/MyProject/Content/ThirdPerson/Blueprints/vornoi02.uasset",
+				"D:/Fork/BOTW_Shader/MyProject/Content/NewNiagaraEmitter.uasset",
+				"D:/Fork/BOTW_Shader/MyProject/Content/NewNiagaraEmitter1.uasset"
 			]
 		}
 	]
